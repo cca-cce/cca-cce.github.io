@@ -11,7 +11,7 @@
 
 ---
 
-- [internal repo](https://github.com/cca-cce.github.io/)
+- [internal repo](https://github.com/cca-cce/cca-cce.github.io/)
 - [external website](https://cca-cce.github.io/)
 
 
